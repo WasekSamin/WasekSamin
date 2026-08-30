@@ -7,7 +7,7 @@ I focus on writing clean, maintainable code and developing scalable software sol
 
 - 🔭 I currently work at **AIMS of Bangladesh**
 - 🌱 Always learning new things in programming & technology
-- 💻 I mostly work with **React, Next.js, Django, and Python**
+- 💻 I mostly work with **React, Next.js, Django, Python, Nodejs and Laravel**
 - 🌐 Portfolio: **https://waseksamin.vercel.app**
 
 ### Let's connect!
