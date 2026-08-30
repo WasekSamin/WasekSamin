@@ -25,8 +25,3 @@ I focus on writing clean, maintainable code and developing scalable software sol
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-### GitHub Stats
-
-![Wasek's GitHub stats](https://github-readme-stats.vercel.app/api?username=WasekSamin&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WasekSamin&layout=compact&theme=tokyonight)
